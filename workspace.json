@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "nrwl-next": "apps/nrwl-next",
+    "nrwl-next-e2e": "apps/nrwl-next-e2e"
+  }
+}
